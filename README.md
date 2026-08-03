@@ -10,6 +10,7 @@
   <a href="https://scholar.google.com/citations?user=KjUrlGUAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google_Scholar-6377CF?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar"></a>
   <a href="https://orcid.org/0000-0002-3953-3256"><img src="https://img.shields.io/badge/ORCID-7CAB38?style=for-the-badge&amp;logo=orcid&amp;logoColor=white" alt="ORCID"></a>
   <a href="https://www.linkedin.com/in/ramtin-mojtahedi/"><img src="https://img.shields.io/badge/LinkedIn-315E9B?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="./REPOSITORY_INDEX.md"><img src="https://img.shields.io/badge/All_Repositories-6D5BD0?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="All repositories"></a>
 </div>
 
 ## About
