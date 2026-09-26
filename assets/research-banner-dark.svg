@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
+  <title id="title">Ramtin Mojtahedi — Medical AI research and engineering</title>
+  <desc id="desc">Postdoctoral Medical AI Researcher. Medical imaging, foundation models, and multimodal prediction. An abstract diagram of layered images and connected model nodes decorates the right side.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#122D39"/><stop offset="1" stop-color="#0B151E"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#78D3CF" stop-opacity=".8"/><stop offset="1" stop-color="#78D3CF" stop-opacity=".15"/></linearGradient>
+  </defs>
+  <rect width="1600" height="500" rx="20" fill="#0B151E"/>
+  <rect x=".75" y=".75" width="1598.5" height="498.5" rx="19.25" fill="none" stroke="#29424D" stroke-width="1.5"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="88" y="71" width="24" height="3" rx="1.5" fill="#C8AA73"/>
+    <text x="127" y="78" fill="#78D3CF" font-size="14" font-weight="600" letter-spacing="2.8">MEDICAL AI / RESEARCH &amp; ENGINEERING</text>
+    <text x="84" y="209" fill="#F2F4EE" font-size="76" font-weight="600" letter-spacing="-2.7">Ramtin Mojtahedi</text>
+    <text x="88" y="267" fill="#F2F4EE" font-size="29" font-weight="400" letter-spacing="-.35">Postdoctoral Medical AI Researcher</text>
+    <text x="88" y="323" fill="#B4C5C8" font-size="22" letter-spacing=".2">Medical imaging · Foundation models · Multimodal prediction</text>
+  </g>
+  <path d="M88 410H814" stroke="#29424D"/>
+  <path d="M88 410H142" stroke="#78D3CF" stroke-width="2"/>
+  <circle cx="833" cy="410" r="3" fill="#C8AA73"/>
+  <g fill="none">
+    <path d="M977 87V414M1033 59V443M1089 87V414M1145 59V443M1201 87V414M1257 59V443M1313 87V414M1369 59V443M1425 87V414M1481 59V443" stroke="#29424D" opacity=".21"/>
+    <path d="M977 115H1494M960 171H1510M977 227H1494M960 283H1510M977 339H1494M960 395H1510" stroke="#29424D" opacity=".21"/>
+    <ellipse cx="1234" cy="258" rx="229" ry="176" stroke="#29424D" opacity=".44" transform="rotate(-20 1234 258)"/>
+    <path d="M1049 351L1236 412L1465 263" stroke="#29424D" stroke-dasharray="3 7"/>
+  </g>
+  <g transform="translate(1020 126)">
+    <path d="M0 95L167 31L331 130L164 194Z" fill="url(#surface)" stroke="#29424D"/>
+    <path d="M11 62L178 0L342 97L175 162Z" fill="url(#surface)" stroke="#29424D"/>
+    <path d="M22 29L189-33L353 64L186 129Z" fill="url(#surface)" stroke="url(#edge)" stroke-width="1.4"/>
+    <g fill="none" stroke="#78D3CF" stroke-width="1.2">
+      <path d="M91 29C124 14 139-4 174 1S212 28 240 42S278 71 247 83S207 91 174 76S113 70 94 52S75 38 91 29Z" opacity=".8"/>
+      <path d="M123 32C141 23 156 10 174 15S195 36 219 47S243 66 222 71S196 73 177 62S140 58 127 47S111 38 123 32Z" opacity=".45"/>
+    </g>
+    <circle cx="184" cy="43" r="4" fill="#C8AA73"/>
+    <path d="M184 33V23M184 63V53M174 43H164M204 43H194" stroke="#C8AA73" stroke-width="1.3"/>
+    <path d="M186 129V189L269 236H363" fill="none" stroke="#78D3CF" stroke-opacity=".5" stroke-width="1.3"/>
+    <path d="M269 236L321 181L392 206M321 181L369 147" fill="none" stroke="#78D3CF" stroke-opacity=".5" stroke-width="1.3"/>
+    <g fill="#0B151E" stroke="#78D3CF" stroke-width="1.5">
+      <circle cx="269" cy="236" r="7"/>
+      <circle cx="321" cy="181" r="9"/>
+      <circle cx="392" cy="206" r="6"/>
+      <circle cx="369" cy="147" r="5"/>
+    </g>
+    <circle cx="363" cy="236" r="4" fill="#C8AA73"/>
+  </g>
+</svg>

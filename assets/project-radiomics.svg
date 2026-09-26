@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220" role="img" aria-labelledby="title desc">
+  <title id="title">Imaging + clinical data</title>
+  <desc id="desc">Multimodal prediction. Abstract geometric method illustration, with no experimental results.</desc>
+  <rect width="800" height="220" rx="14" fill="#0B151E"/>
+  <rect x=".75" y=".75" width="798.5" height="218.5" rx="13.25" fill="none" stroke="#29424D" stroke-width="1.5"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="38" y="71" fill="#78D3CF" font-size="11" font-weight="600" letter-spacing="1.8">MULTIMODAL PREDICTION</text>
+    <text x="36" y="121" fill="#F2F4EE" font-size="30" font-weight="600" letter-spacing="-.8">Imaging + clinical data</text>
+  </g>
+  <path d="M38 176H392" stroke="#29424D"/>
+  <path d="M38 176H76" stroke="#78D3CF" stroke-width="2"/>
+  <circle cx="406" cy="176" r="2.5" fill="#C8AA73"/>
+  <g transform="translate(527 27)">
+    <rect x="19" y="26" width="73" height="65" rx="7" fill="#122D39" stroke="#457C82"/>
+    <path d="M37 49C44 36 63 38 73 50S74 72 63 77S37 70 37 61Z" fill="#183D46" stroke="#78D3CF"/>
+    <rect x="19" y="111" width="73" height="40" rx="7" fill="#122D39" stroke="#457C82"/>
+    <path d="M34 123H77M34 132H62M34 141H70" stroke="#78D3CF" stroke-opacity=".65"/>
+    <path d="M92 58H110L137 89M92 131H110L137 100M161 95H192" fill="none" stroke="#457C82" stroke-width="1.3"/>
+    <circle cx="149" cy="95" r="16" fill="#15323D" stroke="#78D3CF" stroke-width="1.5"/>
+    <path d="M142 95H156M149 88V102" stroke="#78D3CF" stroke-width="1.2"/>
+    <rect x="193" y="70" width="42" height="50" rx="7" fill="#14242C" stroke="#C8AA73"/>
+    <circle cx="214" cy="95" r="5" fill="#C8AA73"/>
+ </g>
+</svg>
