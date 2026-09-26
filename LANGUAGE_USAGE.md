@@ -43,4 +43,4 @@ GitHub's detection can omit generated, vendored, or other excluded files. The me
 
 GitHub also detects TeX in the portfolio. That material consists of BibTeX citation files, so it is not included as a programming-language proficiency signal.
 
-The additional languages listed in the profile's expandable section come from the existing [portfolio language record](https://github.com/Ramtin-Mojtahedi/Ramtin-Mojtahedi.github.io/blob/main/assets/programming-languages.js); this repository audit does not independently establish proficiency in those languages.
+The additional languages listed in the profile's language toolkit come from the existing [portfolio language record](https://github.com/Ramtin-Mojtahedi/Ramtin-Mojtahedi.github.io/blob/main/assets/programming-languages.js); this repository audit does not independently establish proficiency in those languages.

@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="288" viewBox="0 0 960 288" role="img" aria-labelledby="title desc">
+  <title id="title">Language toolkit</title>
+  <desc id="desc">Python, MATLAB, C, C++, C#, Java, Julia, R, SQL, Bash, JavaScript, HTML and CSS. The first ten languages are listed in the portfolio; JavaScript, HTML and CSS are present in public web code. No proficiency ranking is implied.</desc>
+  <rect x=".75" y=".75" width="958.5" height="286.5" rx="12" fill="#101820" stroke="#33444E" stroke-width="1.5"/>
+  <path d="M31 43H929" stroke="#33444E"/>
+  <path d="M31 43H75" stroke="#75C9C0" stroke-width="2"/>
+  <text x="31" y="29" font-family="Arial,Helvetica,sans-serif" font-size="11.5" font-weight="600" letter-spacing="2" fill="#F3F1E9">LANGUAGE TOOLKIT</text>
+  <text x="929" y="29" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10.5" letter-spacing="1.4" fill="#AAB8C1">13 LANGUAGES</text>
+  <g transform="translate(31 64)">
+    <rect x=".5" y=".5" width="169" height="55" rx="8" fill="#131F29" stroke="#33444E"/>
+    <rect x="12" y="13" width="29" height="29" rx="6" fill="#101820" stroke="#75C9C0" stroke-opacity=".35"/>
+    <text x="26.5" y="33" text-anchor="middle" font-family="Consolas,monospace" font-size="13" font-weight="700" fill="#75C9C0">PY</text>
+    <text x="52" y="33" font-family="Arial,Helvetica,sans-serif" font-size="15.5" font-weight="600" fill="#F3F1E9">Python</text>
+  </g>
+  <g transform="translate(213 64)">
+    <rect x=".5" y=".5" width="169" height="55" rx="8" fill="#131F29" stroke="#33444E"/>
+    <rect x="12" y="13" width="29" height="29" rx="6" fill="#101820" stroke="#75C9C0" stroke-opacity=".35"/>
+    <text x="26.5" y="33" text-anchor="middle" font-family="Consolas,monospace" font-size="13" font-weight="700" fill="#75C9C0">M</text>
+    <text x="52" y="33" font-family="Arial,Helvetica,sans-serif" font-size="15.5" font-weight="600" fill="#F3F1E9">MATLAB</text>
+  </g>
+  <g transform="translate(395 64)">
+    <rect x=".5" y=".5" width="169" height="55" rx="8" fill="#131F29" stroke="#33444E"/>
+    <rect x="12" y="13" width="29" height="29" rx="6" fill="#101820" stroke="#75C9C0" stroke-opacity=".35"/>
+    <text x="26.5" y="33" text-anchor="middle" font-family="Consolas,monospace" font-size="13" font-weight="700" fill="#75C9C0">C</text>
+    <text x="52" y="33" font-family="Arial,Helvetica,sans-serif" font-size="15.5" font-weight="600" fill="#F3F1E9">C</text>
+  </g>
+  <g transform="translate(577 64)">
+    <rect x=".5" y=".5" width="169" height="55" rx="8" fill="#131F29" stroke="#33444E"/>
+    <rect x="12" y="13" width="29" height="29" rx="6" fill="#101820" stroke="#75C9C0" stroke-opacity=".35"/>
+    <text x="26.5" y="33" text-anchor="middle" font-family="Consolas,monospace" font-size="11.5" font-weight="700" fill="#75C9C0">C++</text>
+    <text x="52" y="33" font-family="Arial,Helvetica,sans-serif" font-size="15.5" font-weight="600" fill="#F3F1E9">C++</text>
+  </g>
+  <g transform="translate(759 64)">
+    <rect x=".5" y=".5" width="169" height="55" rx="8" fill="#131F29" stroke="#33444E"/>
+    <rect x="12" y="13" width="29" height="29" rx="6" fill="#101820" stroke="#75C9C0" stroke-opacity=".35"/>
+    <text x="26.5" y="33" text-anchor="middle" font-family="Consolas,monospace" font-size="13" font-weight="700" fill="#75C9C0">C#</text>
+    <text x="52" y="33" font-family="Arial,Helvetica,sans-serif" font-size="15.5" font-weight="600" fill="#F3F1E9">C#</text>
+  </g>
+  <g transform="translate(31 134)">
+    <rect x=".5" y=".5" width="169" height="55" rx="8" fill="#131F29" stroke="#33444E"/>
+    <rect x="12" y="13" width="29" height="29" rx="6" fill="#101820" stroke="#75C9C0" stroke-opacity=".35"/>
+    <text x="26.5" y="33" text-anchor="middle" font-family="Consolas,monospace" font-size="13" font-weight="700" fill="#75C9C0">J</text>
+    <text x="52" y="33" font-family="Arial,Helvetica,sans-serif" font-size="15.5" font-weight="600" fill="#F3F1E9">Java</text>
+  </g>
+  <g transform="translate(213 134)">
+    <rect x=".5" y=".5" width="169" height="55" rx="8" fill="#131F29" stroke="#33444E"/>
+    <rect x="12" y="13" width="29" height="29" rx="6" fill="#101820" stroke="#75C9C0" stroke-opacity=".35"/>
+    <text x="26.5" y="33" text-anchor="middle" font-family="Consolas,monospace" font-size="13" font-weight="700" fill="#75C9C0">JL</text>
+    <text x="52" y="33" font-family="Arial,Helvetica,sans-serif" font-size="15.5" font-weight="600" fill="#F3F1E9">Julia</text>
+  </g>
+  <g transform="translate(395 134)">
+    <rect x=".5" y=".5" width="169" height="55" rx="8" fill="#131F29" stroke="#33444E"/>
+    <rect x="12" y="13" width="29" height="29" rx="6" fill="#101820" stroke="#75C9C0" stroke-opacity=".35"/>
+    <text x="26.5" y="33" text-anchor="middle" font-family="Consolas,monospace" font-size="13" font-weight="700" fill="#75C9C0">R</text>
+    <text x="52" y="33" font-family="Arial,Helvetica,sans-serif" font-size="15.5" font-weight="600" fill="#F3F1E9">R</text>
+  </g>
+  <g transform="translate(577 134)">
+    <rect x=".5" y=".5" width="169" height="55" rx="8" fill="#131F29" stroke="#33444E"/>
+    <rect x="12" y="13" width="29" height="29" rx="6" fill="#101820" stroke="#75C9C0" stroke-opacity=".35"/>
+    <text x="26.5" y="33" text-anchor="middle" font-family="Consolas,monospace" font-size="11.5" font-weight="700" fill="#75C9C0">SQL</text>
+    <text x="52" y="33" font-family="Arial,Helvetica,sans-serif" font-size="15.5" font-weight="600" fill="#F3F1E9">SQL</text>
+  </g>
+  <g transform="translate(759 134)">
+    <rect x=".5" y=".5" width="169" height="55" rx="8" fill="#131F29" stroke="#33444E"/>
+    <rect x="12" y="13" width="29" height="29" rx="6" fill="#101820" stroke="#75C9C0" stroke-opacity=".35"/>
+    <text x="26.5" y="33" text-anchor="middle" font-family="Consolas,monospace" font-size="13" font-weight="700" fill="#75C9C0">&gt;_</text>
+    <text x="52" y="33" font-family="Arial,Helvetica,sans-serif" font-size="15.5" font-weight="600" fill="#F3F1E9">Bash</text>
+  </g>
+  <g transform="translate(213 204)">
+    <rect x=".5" y=".5" width="169" height="55" rx="8" fill="#131F29" stroke="#33444E"/>
+    <rect x="12" y="13" width="29" height="29" rx="6" fill="#101820" stroke="#779BE7" stroke-opacity=".35"/>
+    <text x="26.5" y="33" text-anchor="middle" font-family="Consolas,monospace" font-size="13" font-weight="700" fill="#779BE7">JS</text>
+    <text x="52" y="33" font-family="Arial,Helvetica,sans-serif" font-size="15.5" font-weight="600" fill="#F3F1E9">JavaScript</text>
+  </g>
+  <g transform="translate(395 204)">
+    <rect x=".5" y=".5" width="169" height="55" rx="8" fill="#131F29" stroke="#33444E"/>
+    <rect x="12" y="13" width="29" height="29" rx="6" fill="#101820" stroke="#779BE7" stroke-opacity=".35"/>
+    <text x="26.5" y="33" text-anchor="middle" font-family="Consolas,monospace" font-size="13" font-weight="700" fill="#779BE7">&lt;&gt;</text>
+    <text x="52" y="33" font-family="Arial,Helvetica,sans-serif" font-size="15.5" font-weight="600" fill="#F3F1E9">HTML</text>
+  </g>
+  <g transform="translate(577 204)">
+    <rect x=".5" y=".5" width="169" height="55" rx="8" fill="#131F29" stroke="#33444E"/>
+    <rect x="12" y="13" width="29" height="29" rx="6" fill="#101820" stroke="#779BE7" stroke-opacity=".35"/>
+    <text x="26.5" y="33" text-anchor="middle" font-family="Consolas,monospace" font-size="13" font-weight="700" fill="#779BE7">{}</text>
+    <text x="52" y="33" font-family="Arial,Helvetica,sans-serif" font-size="15.5" font-weight="600" fill="#F3F1E9">CSS</text>
+  </g>
+</svg>

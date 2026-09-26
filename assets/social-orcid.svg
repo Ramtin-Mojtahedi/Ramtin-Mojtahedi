@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="155" height="44" viewBox="0 0 155 44" role="img" aria-labelledby="title">
+  <title id="title">ORCID</title>
+  <rect x=".75" y=".75" width="153.5" height="42.5" rx="8.25" fill="#101820" stroke="#33444E" stroke-width="1.5"/>
+  <path d="M10 2H145" stroke="#F3F1E9" stroke-opacity=".06"/>
+  <g fill="none" stroke="#75C9C0" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"><circle cx="27" cy="22" r="10"/><path d="M23 21V27M27 18H29C34.4 18 34.4 27 29 27H27Z"/><circle cx="23" cy="17.5" r="1" fill="#75C9C0" stroke="none"/></g>
+  <text x="46" y="27" fill="#F3F1E9" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="600">ORCID</text>
+  <path d="M132 18H137V23M131 24L137 18" fill="none" stroke="#AAB8C1" stroke-opacity=".6" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
