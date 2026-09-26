@@ -80,7 +80,7 @@ Research and analysis center on **Python**, with **PyTorch, MONAI, TensorFlow, p
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/language-footprint-mobile.svg">
-  <img width="100%" src="./assets/language-footprint.svg?v=technology" alt="GitHub-detected public project coverage: Python in 9 repositories, JavaScript in 2, HTML in 2, and CSS in 1. Reference forks excluded.">
+  <img width="100%" src="./assets/language-coverage.svg" alt="GitHub-detected public project coverage: Python in 9 repositories, JavaScript in 2, HTML in 2, and CSS in 1. Reference forks excluded.">
 </picture>
 
 <sub>13 Python notebooks across six repositories. Counts include source files and verified notebook metadata, exclude reference forks, and describe public project coverage. [Sources and method →](./LANGUAGE_USAGE.md)</sub>
