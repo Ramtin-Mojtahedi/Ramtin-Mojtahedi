@@ -50,7 +50,7 @@
 |---|---|---|
 | [Ramtin-Mojtahedi.github.io](https://github.com/Ramtin-Mojtahedi/Ramtin-Mojtahedi.github.io) | Professional research portfolio, structured publications, and site validation | Website and maintenance tools · [Visit](https://ramtin-mojtahedi.github.io/) |
 | [Ramtin-Mojtahedi](https://github.com/Ramtin-Mojtahedi/Ramtin-Mojtahedi) | GitHub profile and account navigation | Profile, project directory, and original graphics |
-| [natasha-singh-dental-site](https://github.com/Ramtin-Mojtahedi/natasha-singh-dental-site) | Static professional website for Dr. Natasha Singh | HTML, CSS, and JavaScript website |
+| [natasha-singh-dental-site](https://github.com/Ramtin-Mojtahedi/natasha-singh-dental-site) | Independent dental-profile website concept and clinic workflow recommendations | HTML, CSS, and JavaScript website |
 | [Central_Line_Challenge](https://github.com/Ramtin-Mojtahedi/Central_Line_Challenge) | Tool detection and workflow recognition for the 2023 central-line challenge | Historical challenge snapshot |
 | [Code-Deep-dive](https://github.com/Ramtin-Mojtahedi/Code-Deep-dive) | Technical deep-dive document | Document archive |
 
@@ -62,7 +62,7 @@
 |---|---|---|
 | [Assignment-4---Sentiment-Analysis](https://github.com/Ramtin-Mojtahedi/Assignment-4---Sentiment-Analysis) | IMDb review collection and sentiment analysis | Collaborative coursework notebook |
 | [Group_Share_Implementation](https://github.com/Ramtin-Mojtahedi/Group_Share_Implementation) | Hyperopt-sklearn for heart-failure classification | Group coursework notebook |
-| [Assignment-2---AIDI1012](https://github.com/Ramtin-Mojtahedi/Assignment-2---AIDI1012) | Reserved assignment repository | Empty repository |
+| [Assignment-2---AIDI1012](https://github.com/Ramtin-Mojtahedi/Assignment-2---AIDI1012) | Reserved assignment repository | Coursework landing page; no assignment files published |
 
 ## Intuition reports
 
